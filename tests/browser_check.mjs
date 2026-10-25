@@ -41,6 +41,7 @@ const evaluate = async expression => (await call('Runtime.evaluate', { expressio
 const base = await evaluate(`(() => ({
   title: document.title,
   cards: document.querySelectorAll('[data-testid="deal-card"]').length,
+  visas: document.querySelectorAll('[data-testid="visa-rule"]').length,
   visible: [...document.querySelectorAll('[data-testid="deal-card"]')].filter(x => !x.hidden).length,
   overflow: document.documentElement.scrollWidth > document.documentElement.clientWidth + 1,
   minTarget: Math.min(...[...document.querySelectorAll('select,input,summary,a')].map(x => Math.min(x.getBoundingClientRect().width,x.getBoundingClientRect().height)).filter(Boolean))
@@ -48,5 +49,5 @@ const base = await evaluate(`(() => ({
 await evaluate(`(() => { document.querySelector('#room').value='private'; document.querySelector('#room').dispatchEvent(new Event('input',{bubbles:true})); return true; })()`);
 const filtered = await evaluate(`(() => ({visible:[...document.querySelectorAll('[data-testid="deal-card"]')].filter(x=>!x.hidden).length, rooms:[...document.querySelectorAll('[data-testid="deal-card"]')].filter(x=>!x.hidden).map(x=>x.dataset.room), text:document.querySelector('#resultText').textContent}))()`);
 console.log(JSON.stringify({ base, filtered }));
-if (base.title !== 'Warm Workcation Tracker' || base.cards < 1 || base.overflow || filtered.visible < 1 || filtered.rooms.some(r => r !== 'private')) process.exitCode = 1;
+if (base.title !== 'Warm Workcation Tracker' || base.cards < 1 || base.visas !== base.cards || base.overflow || filtered.visible < 1 || filtered.rooms.some(r => r !== 'private')) process.exitCode = 1;
 ws.close(); chrome.kill();

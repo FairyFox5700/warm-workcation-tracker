@@ -10,6 +10,11 @@ class TrackerTests(unittest.TestCase):
     def setUp(self):
         self.config = {
             "origin": "DUB", "nights": 28, "minimum_work_score": 60,
+            "visa_rules": {"Morocco": {
+                "status": "Visa required; eVisa may be available", "entry_rule": "Test entry rule",
+                "passport_note": "Test passport note", "work_note": "Test work note",
+                "source_url": "https://www.acces-maroc.ma/test.pdf", "checker_url": "https://www.acces-maroc.ma/",
+            }},
         }
         self.item = {
             "id": "agadir-test", "destination": "Agadir", "country": "Morocco", "airport": "AGA",
@@ -70,6 +75,17 @@ class TrackerTests(unittest.TestCase):
             self.assertEqual(28, nights)
             self.assertIn(candidate["outbound_date"][:7], {"2027-01", "2027-02"})
             self.assertGreaterEqual(candidate["typical_high_c"], 18)
+            rule = config["visa_rules"][candidate["country"]]
+            self.assertTrue(rule["status"])
+            self.assertTrue(rule["source_url"].startswith("https://"))
+
+    def test_country_specific_ukrainian_visa_rules(self):
+        root = Path(__file__).resolve().parents[1]
+        rules = json.loads((root / "config.json").read_text(encoding="utf-8"))["visa_rules"]
+        self.assertIn("eVisa", rules["Morocco"]["status"])
+        self.assertIn("180 days", rules["Morocco"]["entry_rule"])
+        self.assertIn("biometric passport", rules["Spain"]["status"])
+        self.assertIn("90 days", rules["Spain"]["entry_rule"])
 
     def test_render_has_filters_safe_links_and_mobile_rule(self):
         offer = build_offer(self.item, self.flight, self.stay, self.config)
@@ -79,6 +95,8 @@ class TrackerTests(unittest.TestCase):
         self.assertIn('rel="noopener noreferrer"', html)
         self.assertIn('@media(max-width:340px)', html)
         self.assertIn('Shared rooms and dorms are excluded', html)
+        self.assertIn('data-testid="visa-rule"', html)
+        self.assertIn('Ukrainian passport', html)
 
 
 if __name__ == "__main__":

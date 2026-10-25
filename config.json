@@ -7,6 +7,24 @@
   "minimum_work_score": 60,
   "require_private_room": true,
   "fresh_days": 7,
+  "visa_rules": {
+    "Morocco": {
+      "status": "Visa required; eVisa may be available",
+      "entry_rule": "Ukraine is not on Morocco's official visa-exempt list. A Ukrainian ordinary-passport holder living in the EU may qualify for a Moroccan eVisa with a residence card or permit valid for at least 180 days when applying. The eVisa is single-entry and permits a stay of up to 30 days.",
+      "passport_note": "The ordinary passport must be valid for at least 90 days when applying. Confirm your exact eligibility on Accès Maroc before booking.",
+      "work_note": "The eVisa is for tourism or business; it does not by itself authorize local employment. Confirm remote-work permission with your employer and the Moroccan authorities.",
+      "source_url": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20An.pdf",
+      "checker_url": "https://www.acces-maroc.ma/"
+    },
+    "Spain": {
+      "status": "Visa-free with a Ukrainian biometric passport",
+      "entry_rule": "Ukrainian citizens with biometric passports may enter Spain and the Schengen area without a visa for up to 90 days in any 180-day period.",
+      "passport_note": "The passport should remain valid for at least 3 months after planned Schengen departure, have been issued within the previous 10 years, and have at least 2 blank pages.",
+      "work_note": "Visa-free travel does not grant a right to work. Treat remote-work, employer, tax and social-security permission as separate checks.",
+      "source_url": "https://www.exteriores.gob.es/Embajadas/kiev/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Ucrania&scd=160&scs=Visado+de+estancia+(visado+Schengen)",
+      "checker_url": "https://www.eeas.europa.eu/ukraine/travel-study_en?s=232"
+    }
+  },
   "candidates": [
     {
       "id": "agadir-anza-jan",

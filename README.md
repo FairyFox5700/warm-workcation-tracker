@@ -7,6 +7,7 @@ A live comparison of low-cost 28-night winter workcations from Dublin for one re
 - Dublin departure, one adult, 28 nights
 - January or February 2027
 - Typical daytime high of at least 18°C
+- Private room only—shared rooms and dorms are excluded
 - Exact dated Ryanair return fare plus exact whole-stay Hostelworld total
 - Remote-work claims require explicit Wi-Fi/workspace evidence
 - Private rooms without work evidence are shown as leads, never as work-ready

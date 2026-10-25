@@ -27,7 +27,20 @@ class TrackerTests(unittest.TestCase):
         inbound = {"fares": [{"outbound": {"flightNumber": "FR2", "departureDate": "2027-02-01T13:00:00", "arrivalDate": "2027-02-01T15:00:00", "price": {"value": 60}}}]}
         stay_data = {"rooms": {"dorms": [{"name": "4 Bed Dorm", "totalBedsAvailable": 2, "totalPrice": [{"price": {"value": "400"}}]}], "privates": []}}
         self.assertEqual(100.0, parse_ryanair(outbound, inbound)["total_eur"])
-        self.assertEqual(400.0, parse_hostelworld(stay_data)["total_eur"])
+        self.assertIsNone(parse_hostelworld(stay_data))
+        shared = parse_hostelworld(stay_data, private_only=False)
+        assert shared is not None
+        self.assertEqual(400.0, shared["total_eur"])
+
+    def test_private_only_parser_rejects_cheaper_dorm(self):
+        stay_data = {"rooms": {
+            "dorms": [{"name": "Dorm", "totalBedsAvailable": 2, "totalPrice": [{"price": {"value": "300"}}]}],
+            "privates": [{"name": "Private", "totalRoomsAvailable": 1, "totalPrice": [{"price": {"value": "650"}}]}],
+        }}
+        stay = parse_hostelworld(stay_data)
+        assert stay is not None
+        self.assertEqual(650.0, stay["total_eur"])
+        self.assertEqual("private", stay["room_type"])
 
     def test_total_is_flight_plus_whole_stay(self):
         offer = build_offer(self.item, self.flight, self.stay, self.config)
@@ -65,7 +78,7 @@ class TrackerTests(unittest.TestCase):
         self.assertIn('data-testid="deal-card"', html)
         self.assertIn('rel="noopener noreferrer"', html)
         self.assertIn('@media(max-width:340px)', html)
-        self.assertIn('private rooms without verified desk/Wi-Fi', html)
+        self.assertIn('Shared rooms and dorms are excluded', html)
 
 
 if __name__ == "__main__":

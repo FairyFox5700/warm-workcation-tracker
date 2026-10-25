@@ -5,6 +5,7 @@
   "minimum_high_c": 18.0,
   "minimum_review_score": 7.5,
   "minimum_work_score": 60,
+  "require_private_room": true,
   "fresh_days": 7,
   "candidates": [
     {

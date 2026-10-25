@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked_at": "2026-10-25T07:46:12+00:00",
+  "checked_at": "2026-10-25T13:12:30+00:00",
   "deals": [
     {
       "id": "tamraght-aisha-feb",
@@ -36,7 +36,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 86.47,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "tamraght-aisha-jan",
@@ -58,10 +58,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 99.53,
+      "flight_total_eur": 100.25,
       "stay_total_eur": 284.31,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 383.84,
+      "total_eur": 384.56,
       "room_name": "Standard 8 Bed Mixed Dorm",
       "room_type": "shared",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -72,7 +72,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 85.25,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "agadir-anza-feb",
@@ -108,7 +108,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 81.4,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "agadir-anza-jan",
@@ -130,10 +130,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 99.53,
+      "flight_total_eur": 100.25,
       "stay_total_eur": 476.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 575.53,
+      "total_eur": 576.25,
       "room_name": "Standard 4 Bed Mixed Dorm",
       "room_type": "shared",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -144,7 +144,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 80.25,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "agadir-family-feb",
@@ -180,7 +180,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 79.47,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "agadir-family-jan",
@@ -202,10 +202,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 99.53,
+      "flight_total_eur": 100.25,
       "stay_total_eur": 399.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 498.53,
+      "total_eur": 499.25,
       "room_name": "Standard 5 Bed Mixed Dorm",
       "room_type": "shared",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -216,7 +216,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 78.25,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "marrakech-stork-jan",
@@ -238,10 +238,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 209.98,
+      "flight_total_eur": 211.98,
       "stay_total_eur": 699.72,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 909.7,
+      "total_eur": 911.7,
       "room_name": "Superior 8 Bed Female Dorm",
       "room_type": "shared",
       "outbound": "FR7378 \u00b7 05:45\u201309:20",
@@ -251,8 +251,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=RAK&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Marrakech/309700?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 69.35,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "score": 69.27,
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "tenerife-alcala-feb",
@@ -288,7 +288,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 44.36,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     },
     {
       "id": "tenerife-alcala-jan",
@@ -324,7 +324,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 41.29,
-      "checked_at": "2026-10-25T07:46:12+00:00"
+      "checked_at": "2026-10-25T13:12:30+00:00"
     }
   ],
   "source_errors": []

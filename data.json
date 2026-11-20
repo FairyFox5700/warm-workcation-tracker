@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked_at": "2026-11-19T17:24:42+00:00",
+  "checked_at": "2026-11-20T16:59:01+00:00",
   "deals": [
     {
       "id": "agadir-family-feb",
@@ -30,10 +30,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 123.18,
+      "flight_total_eur": 120.18,
       "stay_total_eur": 759.92,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 883.1,
+      "total_eur": 880.1,
       "room_name": "Standard Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -43,8 +43,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 71.11,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 71.22,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "agadir-family-jan",
@@ -74,10 +74,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 143.51,
+      "flight_total_eur": 145.43,
       "stay_total_eur": 759.92,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 903.43,
+      "total_eur": 905.35,
       "room_name": "Standard Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -87,8 +87,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 69.12,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 69.05,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "tamraght-aisha-feb",
@@ -118,10 +118,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 123.18,
-      "stay_total_eur": 1168.7,
+      "flight_total_eur": 120.18,
+      "stay_total_eur": 1168.69,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1291.88,
+      "total_eur": 1288.87,
       "room_name": "Deluxe Twin Room Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -131,8 +131,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 62.78,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 62.89,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "tamraght-aisha-jan",
@@ -162,10 +162,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 143.51,
-      "stay_total_eur": 1168.7,
+      "flight_total_eur": 145.43,
+      "stay_total_eur": 1168.69,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1312.21,
+      "total_eur": 1314.12,
       "room_name": "Deluxe Twin Room Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -175,8 +175,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 60.79,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 60.72,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "agadir-anza-feb",
@@ -206,10 +206,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 123.18,
+      "flight_total_eur": 120.18,
       "stay_total_eur": 1120.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1243.18,
+      "total_eur": 1240.18,
       "room_name": "Deluxe Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -219,8 +219,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 59.61,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 59.72,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "agadir-anza-jan",
@@ -250,10 +250,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 143.51,
+      "flight_total_eur": 145.43,
       "stay_total_eur": 1120.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1263.51,
+      "total_eur": 1265.43,
       "room_name": "Deluxe Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -263,8 +263,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 57.62,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 57.55,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "tenerife-alcala-feb",
@@ -294,21 +294,21 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 140.87,
+      "flight_total_eur": 147.53,
       "stay_total_eur": 1120.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1260.87,
+      "total_eur": 1267.53,
       "room_name": "Standard Single Private Shared Bathroom",
       "room_type": "private",
-      "outbound": "FR5555 \u00b7 13:25\u201317:45",
+      "outbound": "FR5557 \u00b7 06:25\u201310:45",
       "return": "FR7123 \u00b7 11:20\u201315:40",
       "state": "lead",
       "state_reason": "Exact price; work setup not verified",
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=TFS&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 44.82,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 44.57,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     },
     {
       "id": "tenerife-alcala-jan",
@@ -338,10 +338,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 186.98,
+      "flight_total_eur": 176.98,
       "stay_total_eur": 1120.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1306.98,
+      "total_eur": 1296.98,
       "room_name": "Standard Single Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR5555 \u00b7 13:25\u201317:45",
@@ -351,8 +351,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=TFS&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 42.83,
-      "checked_at": "2026-11-19T17:24:42+00:00"
+      "score": 43.2,
+      "checked_at": "2026-11-20T16:59:01+00:00"
     }
   ],
   "source_errors": [

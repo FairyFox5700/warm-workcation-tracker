@@ -1,7 +1,95 @@
 {
   "schema_version": "1.0",
-  "checked_at": "2026-11-21T13:41:11+00:00",
+  "checked_at": "2026-11-21T16:09:18+00:00",
   "deals": [
+    {
+      "id": "agadir-epicswell-feb",
+      "destination": "Agadir",
+      "country": "Morocco",
+      "airport": "AGA",
+      "outbound_date": "2027-02-01",
+      "return_date": "2027-03-01",
+      "property_id": "331728",
+      "property": "Epic Swell House",
+      "review_score": 8.6,
+      "typical_high_c": 21.4,
+      "climate_url": "https://monthlyclimate.com/morocco/agadir/january/",
+      "work_score": 62,
+      "wifi_score": 58,
+      "workspace": "Shared kitchen and sea-view terraces",
+      "work_evidence": "Property states \"Fast Wi-Fi\"; no dedicated desk or coworking space listed",
+      "work_evidence_url": "https://www.hostelworld.com/hostels/p/331728/epic-swell-house/",
+      "visa": {
+        "status": "Visa required; eVisa may be available",
+        "entry_rule": "Ukraine is not on Morocco's official visa-exempt list. A Ukrainian ordinary-passport holder living in the EU may qualify for a Moroccan eVisa with a residence card or permit valid for at least 180 days when applying. The eVisa is single-entry and permits a stay of up to 30 days.",
+        "passport_note": "The ordinary passport must be valid for at least 90 days when applying. Confirm your exact eligibility on Acc\u00e8s Maroc before booking.",
+        "work_note": "The eVisa is for tourism or business; it does not by itself authorize local employment. Confirm remote-work permission with your employer and the Moroccan authorities.",
+        "source_url": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20An.pdf",
+        "checker_url": "https://www.acces-maroc.ma/"
+      },
+      "origin": "DUB",
+      "nights": 28,
+      "month": "2027-02",
+      "flight_total_eur": 121.96,
+      "stay_total_eur": 413.3,
+      "mandatory_fees_eur": 0.0,
+      "total_eur": 535.26,
+      "room_name": "Standard Double Bed Private Shared Bathroom",
+      "room_type": "private",
+      "outbound": "FR3995 \u00b7 18:40\u201322:25",
+      "return": "FR3994 \u00b7 14:20\u201318:15",
+      "state": "verified",
+      "state_reason": "Exact price + work setup verified",
+      "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
+      "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/331728?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
+      "price_quality": "exact",
+      "score": 77.92,
+      "checked_at": "2026-11-21T16:09:18+00:00"
+    },
+    {
+      "id": "agadir-epicswell-jan",
+      "destination": "Agadir",
+      "country": "Morocco",
+      "airport": "AGA",
+      "outbound_date": "2027-01-04",
+      "return_date": "2027-02-01",
+      "property_id": "331728",
+      "property": "Epic Swell House",
+      "review_score": 8.6,
+      "typical_high_c": 20.0,
+      "climate_url": "https://monthlyclimate.com/morocco/agadir/january/",
+      "work_score": 62,
+      "wifi_score": 58,
+      "workspace": "Shared kitchen and sea-view terraces",
+      "work_evidence": "Property states \"Fast Wi-Fi\"; no dedicated desk or coworking space listed",
+      "work_evidence_url": "https://www.hostelworld.com/hostels/p/331728/epic-swell-house/",
+      "visa": {
+        "status": "Visa required; eVisa may be available",
+        "entry_rule": "Ukraine is not on Morocco's official visa-exempt list. A Ukrainian ordinary-passport holder living in the EU may qualify for a Moroccan eVisa with a residence card or permit valid for at least 180 days when applying. The eVisa is single-entry and permits a stay of up to 30 days.",
+        "passport_note": "The ordinary passport must be valid for at least 90 days when applying. Confirm your exact eligibility on Acc\u00e8s Maroc before booking.",
+        "work_note": "The eVisa is for tourism or business; it does not by itself authorize local employment. Confirm remote-work permission with your employer and the Moroccan authorities.",
+        "source_url": "https://www.acces-maroc.ma/assets/docs/Conditions%20utilisation%20eVisa%20-%20An.pdf",
+        "checker_url": "https://www.acces-maroc.ma/"
+      },
+      "origin": "DUB",
+      "nights": 28,
+      "month": "2027-01",
+      "flight_total_eur": 153.77,
+      "stay_total_eur": 413.3,
+      "mandatory_fees_eur": 0.0,
+      "total_eur": 567.07,
+      "room_name": "Standard Double Bed Private Shared Bathroom",
+      "room_type": "private",
+      "outbound": "FR3995 \u00b7 18:40\u201322:25",
+      "return": "FR3994 \u00b7 14:20\u201318:15",
+      "state": "verified",
+      "state_reason": "Exact price + work setup verified",
+      "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
+      "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/331728?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
+      "price_quality": "exact",
+      "score": 76.7,
+      "checked_at": "2026-11-21T16:09:18+00:00"
+    },
     {
       "id": "agadir-family-feb",
       "destination": "Agadir",
@@ -30,10 +118,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 119.96,
+      "flight_total_eur": 121.96,
       "stay_total_eur": 759.92,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 879.88,
+      "total_eur": 881.88,
       "room_name": "Standard Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -43,8 +131,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 71.23,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 71.15,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "agadir-family-jan",
@@ -88,7 +176,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 68.74,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "tamraght-aisha-feb",
@@ -118,10 +206,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 119.96,
+      "flight_total_eur": 121.96,
       "stay_total_eur": 1162.39,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1282.35,
+      "total_eur": 1284.35,
       "room_name": "Deluxe Twin Room Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -131,8 +219,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 63.14,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 63.06,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "tamraght-aisha-jan",
@@ -176,7 +264,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 60.64,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "agadir-anza-feb",
@@ -206,10 +294,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 119.96,
+      "flight_total_eur": 121.96,
       "stay_total_eur": 1120.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1239.96,
+      "total_eur": 1241.96,
       "room_name": "Deluxe Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR3995 \u00b7 18:40\u201322:25",
@@ -219,8 +307,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=AGA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 59.73,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 59.65,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "agadir-anza-jan",
@@ -264,7 +352,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 57.23,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "tenerife-alcala-feb",
@@ -308,7 +396,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 44.57,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "tenerife-alcala-jan",
@@ -338,10 +426,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 173.98,
+      "flight_total_eur": 175.98,
       "stay_total_eur": 1120.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1293.98,
+      "total_eur": 1295.98,
       "room_name": "Standard Single Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR5555 \u00b7 13:25\u201317:45",
@@ -351,8 +439,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=TFS&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 43.31,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 43.24,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "marrakech-kasbah-gym-feb",
@@ -396,7 +484,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Marrakech/278537?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 38.89,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "gran-canaria-camino-feb",
@@ -426,10 +514,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-02",
-      "flight_total_eur": 79.27,
+      "flight_total_eur": 80.27,
       "stay_total_eur": 1288.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1367.27,
+      "total_eur": 1368.27,
       "room_name": "Basic Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR94 \u00b7 15:40\u201320:00",
@@ -439,8 +527,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=LPA&isReturn=true&departureDateFrom=2027-02-01&departureDateTo=2027-02-01&returnDateFrom=2027-03-01&returnDateTo=2027-03-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Telde, Gran Canaria/282851?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 37.06,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 37.03,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "gran-canaria-camino-jan",
@@ -470,10 +558,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 164.38,
+      "flight_total_eur": 166.38,
       "stay_total_eur": 1288.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1452.38,
+      "total_eur": 1454.38,
       "room_name": "Basic Double Bed Private Shared Bathroom",
       "room_type": "private",
       "outbound": "FR94 \u00b7 15:40\u201320:00",
@@ -483,8 +571,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=LPA&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Telde, Gran Canaria/282851?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 33.96,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 33.89,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     },
     {
       "id": "marrakech-kasbah-gym-jan",
@@ -514,10 +602,10 @@
       "origin": "DUB",
       "nights": 28,
       "month": "2027-01",
-      "flight_total_eur": 193.98,
+      "flight_total_eur": 194.98,
       "stay_total_eur": 1386.0,
       "mandatory_fees_eur": 0.0,
-      "total_eur": 1579.98,
+      "total_eur": 1580.98,
       "room_name": "Standard 3 Bed Private Ensuite",
       "room_type": "private",
       "outbound": "FR7378 \u00b7 05:45\u201309:20",
@@ -527,8 +615,8 @@
       "flight_url": "https://www.ryanair.com/ie/en/fare-finder?originIata=DUB&destinationIata=RAK&isReturn=true&departureDateFrom=2027-01-04&departureDateTo=2027-01-04&returnDateFrom=2027-02-01&returnDateTo=2027-02-01&budget=1800",
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Marrakech/278537?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
-      "score": 33.71,
-      "checked_at": "2026-11-21T13:41:11+00:00"
+      "score": 33.68,
+      "checked_at": "2026-11-21T16:09:18+00:00"
     }
   ],
   "source_errors": [

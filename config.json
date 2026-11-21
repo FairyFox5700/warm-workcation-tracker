@@ -99,6 +99,24 @@
       "work_evidence_url": "https://www.hostelworld.com/hostels/p/309700/stork-marrakech-luxury-hostel-and-coworking/"
     },
     {
+      "id": "gran-canaria-camino-jan",
+      "destination": "Telde, Gran Canaria",
+      "country": "Spain",
+      "airport": "LPA",
+      "outbound_date": "2027-01-04",
+      "return_date": "2027-02-01",
+      "property_id": "282851",
+      "property": "Camino Art House",
+      "review_score": 8.0,
+      "typical_high_c": 18.2,
+      "climate_url": "https://en.climate-data.org/europe/spain/canary-islands/las-palmas-de-gran-canaria-583/t/january-1/",
+      "work_score": 40,
+      "wifi_score": 45,
+      "workspace": "Not verified",
+      "work_evidence": "Property lists free Wi-Fi; a dedicated desk or coworking space is not confirmed",
+      "work_evidence_url": "https://www.hostelworld.com/hostels/p/282851/camino-art-house/"
+    },
+    {
       "id": "tenerife-alcala-jan",
       "destination": "Alcalá, Tenerife",
       "country": "Spain",
@@ -115,6 +133,24 @@
       "workspace": "Not verified",
       "work_evidence": "Private-room inventory found; reliable Wi-Fi and a usable desk are not verified",
       "work_evidence_url": "https://www.hostelworld.com/bed-and-breakfasts/p/283048/pension-alcala/"
+    },
+    {
+      "id": "gran-canaria-camino-feb",
+      "destination": "Telde, Gran Canaria",
+      "country": "Spain",
+      "airport": "LPA",
+      "outbound_date": "2027-02-01",
+      "return_date": "2027-03-01",
+      "property_id": "282851",
+      "property": "Camino Art House",
+      "review_score": 8.0,
+      "typical_high_c": 18.1,
+      "climate_url": "https://en.climate-data.org/europe/spain/canary-islands/las-palmas-de-gran-canaria-583/t/february-2/",
+      "work_score": 40,
+      "wifi_score": 45,
+      "workspace": "Not verified",
+      "work_evidence": "Property lists free Wi-Fi; a dedicated desk or coworking space is not confirmed",
+      "work_evidence_url": "https://www.hostelworld.com/hostels/p/282851/camino-art-house/"
     },
     {
       "id": "agadir-anza-feb",

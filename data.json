@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "checked_at": "2026-11-21T16:09:18+00:00",
+  "checked_at": "2026-11-21T16:10:49+00:00",
   "deals": [
     {
       "id": "agadir-epicswell-feb",
@@ -44,7 +44,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/331728?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 77.92,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "agadir-epicswell-jan",
@@ -88,7 +88,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/331728?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 76.7,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "agadir-family-feb",
@@ -132,7 +132,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 71.15,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "agadir-family-jan",
@@ -176,7 +176,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338408?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 68.74,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "tamraght-aisha-feb",
@@ -220,7 +220,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 63.06,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "tamraght-aisha-jan",
@@ -264,7 +264,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Tamraght/336939?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 60.64,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "agadir-anza-feb",
@@ -308,7 +308,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 59.65,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "agadir-anza-jan",
@@ -352,7 +352,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Agadir/338765?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 57.23,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "tenerife-alcala-feb",
@@ -396,7 +396,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 44.57,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "tenerife-alcala-jan",
@@ -440,7 +440,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Alcal\u00e1, Tenerife/283048?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 43.24,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "marrakech-kasbah-gym-feb",
@@ -484,7 +484,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Marrakech/278537?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 38.89,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "gran-canaria-camino-feb",
@@ -528,7 +528,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Telde, Gran Canaria/282851?from=2027-02-01&to=2027-03-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 37.03,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "gran-canaria-camino-jan",
@@ -572,7 +572,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Telde, Gran Canaria/282851?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 33.89,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     },
     {
       "id": "marrakech-kasbah-gym-jan",
@@ -616,7 +616,7 @@
       "stay_url": "https://www.hostelworld.com/pwa/hosteldetails.php/property/Marrakech/278537?from=2027-01-04&to=2027-02-01&guests=1&currency=EUR",
       "price_quality": "exact",
       "score": 33.68,
-      "checked_at": "2026-11-21T16:09:18+00:00"
+      "checked_at": "2026-11-21T16:10:49+00:00"
     }
   ],
   "source_errors": [
